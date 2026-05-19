@@ -106,7 +106,7 @@ Abrir la terminal de WSL y ejecutar:
 mkdir ~/semana6-docker && cd ~/semana6-docker
 ```
 
-<img width="747" height="52" alt="image" src="https://github.com/user-attachments/assets/7c27dfb7-0369-4a1d-9e09-601f3dcad866" />
+<img width="747" height="52" alt="Captura de pantalla 2026-05-19 173219" src="https://github.com/user-attachments/assets/6c655a8b-426c-4166-ba68-043bc2745e40" />
 
 
 ---
@@ -189,7 +189,8 @@ Guardar con `Ctrl+O`, `Enter`, luego salir con `Ctrl+X`.
 ```bash
 cat docker-compose.yml
 ```
-<img width="807" height="602" alt="image" src="https://github.com/user-attachments/assets/dec8de34-8c4f-44cf-a389-48660ea66b36" />
+<img width="807" height="602" alt="Captura de pantalla 2026-05-19 173432" src="https://github.com/user-attachments/assets/fdd73308-2bfa-49e4-abb8-16b9336b1197" />
+
 
 ---
 
@@ -260,7 +261,8 @@ Creating mysql_db       ... done
 Creating phpmyadmin_ui  ... done
 Creating wordpress_app  ... done
 ```
-<img width="627" height="101" alt="image" src="https://github.com/user-attachments/assets/10888ce3-f2b3-4540-8252-46022464c66b" />
+<img width="627" height="101" alt="Captura de pantalla 2026-05-19 173617" src="https://github.com/user-attachments/assets/a444562c-094e-4ee2-9f6b-d475e7476d69" />
+
 
 ---
 
@@ -272,7 +274,7 @@ docker ps
 
 Salida obtenida:
 
-<img width="1327" height="212" alt="image" src="https://github.com/user-attachments/assets/b4f290d6-05dc-42e6-9d84-282039b8c088" />
+<img width="1327" height="212" alt="Captura de pantalla 2026-05-19 173639" src="https://github.com/user-attachments/assets/ed80d54b-22a1-4576-9433-db198bc0e8c4" />
 
 
 Los tres contenedores aparecen con estado **Up**.
@@ -292,7 +294,7 @@ Los logs confirmaron:
 
 Salir de los logs con `Ctrl+C`.
 
-<img width="1345" height="653" alt="image" src="https://github.com/user-attachments/assets/0a00a2da-82d6-401b-883b-83d86374ad10" />
+<img width="1345" height="653" alt="Captura de pantalla 2026-05-19 173714" src="https://github.com/user-attachments/assets/6b4c5b06-0a8d-46de-ac63-196f9c3d0384" />
 
 
 ---
@@ -307,11 +309,11 @@ Salir de los logs con `Ctrl+C`.
 
 Acceso a WordPress en http://localhost:8080
 
-**<img width="1918" height="1142" alt="image" src="https://github.com/user-attachments/assets/c5219fb0-c796-4747-89ec-72f25aa3c5bf" />
+<img width="1918" height="1142" alt="Captura de pantalla 2026-05-19 173759" src="https://github.com/user-attachments/assets/38a188da-4a2a-4228-a7cc-4cfa3c9ef9bf" />
 
 Acceso a phpMyAdmin en http://localhost:8081
 
-<img width="1918" height="1141" alt="image" src="https://github.com/user-attachments/assets/229066fd-533d-4a69-9093-6d296836c0e0" />
+<img width="1918" height="1141" alt="Captura de pantalla 2026-05-19 173936" src="https://github.com/user-attachments/assets/9c44aedd-13a4-4475-953a-d2b2397e0163" />
 
 
 ---
@@ -325,7 +327,8 @@ docker-compose down
 # Detener y eliminar volúmenes (borra todos los datos)
 docker-compose down -v
 ```
-<img width="695" height="317" alt="image" src="https://github.com/user-attachments/assets/e59738c0-57ad-4563-9795-c24cac6107c2" />
+<img width="695" height="317" alt="Captura de pantalla 2026-05-19 174103" src="https://github.com/user-attachments/assets/6a7b3e6b-8d2e-4bd8-9c7c-73db48075848" />
+
 
 ---
 
